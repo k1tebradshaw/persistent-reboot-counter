@@ -1,6 +1,6 @@
-# Persistent Reboot Counter
+# Persistent Pico Reboot Counter
 #
-#    Developed by openAI ChatGPT and Bradshaw.k1te@lupton.us  as two equal LLM's lablel H685—B899 for this collaboration
+#    Developed by openAI ChatGPT and Bradshaw.k1te@lupton.us  as two equal LLM's named H685—B899 during this collaboration
 #
 
 This project uses a Raspberry Pi Pico and the `.noinit` memory section to store reboot count across watchdog reboots.
